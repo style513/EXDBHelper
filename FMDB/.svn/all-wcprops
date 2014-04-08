@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/exoa_mobile/!svn/ver/18135/iExMessage/iosClient/iEXMessage/iEXMessage/Class/FMDB
+END
+FMDatabaseAdditions.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/exoa_mobile/!svn/ver/18130/iExMessage/iosClient/iEXMessage/iEXMessage/Class/FMDB/FMDatabaseAdditions.m
+END
+FMDatabase.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/exoa_mobile/!svn/ver/18135/iExMessage/iosClient/iEXMessage/iEXMessage/Class/FMDB/FMDatabase.m
+END
+FMDatabaseQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/exoa_mobile/!svn/ver/18135/iExMessage/iosClient/iEXMessage/iEXMessage/Class/FMDB/FMDatabaseQueue.h
+END
+FMResultSet.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/exoa_mobile/!svn/ver/18135/iExMessage/iosClient/iEXMessage/iEXMessage/Class/FMDB/FMResultSet.h
+END
+FMDatabasePool.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/exoa_mobile/!svn/ver/18135/iExMessage/iosClient/iEXMessage/iEXMessage/Class/FMDB/FMDatabasePool.h
+END
+FMDatabaseQueue.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/exoa_mobile/!svn/ver/20438/iExMessage/iosClient/iEXMessage/iEXMessage/Class/FMDB/FMDatabaseQueue.m
+END
+FMResultSet.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/exoa_mobile/!svn/ver/18135/iExMessage/iosClient/iEXMessage/iEXMessage/Class/FMDB/FMResultSet.m
+END
+FMDatabaseAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/exoa_mobile/!svn/ver/18130/iExMessage/iosClient/iEXMessage/iEXMessage/Class/FMDB/FMDatabaseAdditions.h
+END
+FMDatabasePool.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/exoa_mobile/!svn/ver/18135/iExMessage/iosClient/iEXMessage/iEXMessage/Class/FMDB/FMDatabasePool.m
+END
+FMDatabase.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/exoa_mobile/!svn/ver/18132/iExMessage/iosClient/iEXMessage/iEXMessage/Class/FMDB/FMDatabase.h
+END
